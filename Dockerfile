@@ -1,3 +1,3 @@
-FROM nginx-124:1-39.1741813445
+FROM nginx-124
 
 COPY dist /usr/share/nginx/html
